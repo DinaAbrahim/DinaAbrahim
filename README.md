@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 College Student
 ---------------
 
-Hi, I'm a college student majoring in computer science. I'm looking for a summer 2023 software engineering internship.
+Hi, I'm a college student majoring in computer science. I'm looking for a summer 2024 software engineering internship.
 
 *   🌍  I'm based in New York City
 *   ✉️  You can contact me at [abrahim@mail.yu.edu](mailto:abrahim@mail.yu.edu)
