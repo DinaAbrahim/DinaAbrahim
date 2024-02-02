@@ -8,7 +8,7 @@ Hi, I'm a college student majoring in computer science. I'm looking for a summer
 
 *   🌍  I'm based in New York City
 *   ✉️  You can contact me at [abrahim@mail.yu.edu](mailto:abrahim@mail.yu.edu)
-*   🧠  I'm learning Java
+*   🧠  I'm currently learning C and SQL
 *   🤝  I'm open to collaborating on Projects
 *   ### Skills 
 <p align="left">
