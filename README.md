@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 College Student
 ---------------
 
-Hi! My name is Dina and I'm a computer science student at Yeshiva University in New York City, originally from Rhode Island. My hobbies include reading, crocheting, traveling, and cooking. I'm passionate about technology and always looking to connect with like-minded individuals.
+Hi! My name is Dina and I'm a software engineer originally from the U.S., now based in Berlin. 
 
-*   🌍  I'm based in New York City
-*   ✉️  You can contact me at [abrahim@mail.yu.edu](mailto:abrahim@mail.yu.edu)
-*   🧠  I'm currently learning C and SQL
-*   🤝  I'm open to collaborating on Projects
+I’m always eager to learn, collaborate, and grow-and I’m excited to connect with others in the tech community!
+
+*   🌍  I'm based in Berlin
+*   ✉️  You can contact me at [dinaabrahim3@gmail.com](mailto:dinaabrahim3@gmail.com)
 *   ### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
