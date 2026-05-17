@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dina Abrahim
 ====================================================================================================================================
 
-Software Engineer at Deutsche Bank
+Software Engineer
 ---------------
 
-Hi! My name is Dina and I'm a software engineer originally from the U.S., now based in Berlin. 
+Hi! My name is Dina and I'm a software engineer. 
 
 I’m always eager to learn, collaborate, and grow-and I’m excited to connect with others in the tech community!
 
-*   🌍  I'm based in Berlin
+*   🌍  I'm based in Boston
 *   ✉️  You can contact me at [dinaabrahim3@gmail.com](mailto:dinaabrahim3@gmail.com)
 *   ### Skills 
 <p align="left">
