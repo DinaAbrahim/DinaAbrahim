@@ -7,7 +7,7 @@ I’m always eager to learn, collaborate, and grow-and I’m excited to connect 
 
 *   🌍  I'm based in Baltimore, Maryland
 *   ✉️  You can contact me at [dinaabrahim3@gmail.com](mailto:dinaabrahim3@gmail.com)
-*   ### Skills
+   ### Skills
 
 <p align="left">
   
