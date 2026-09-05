@@ -6,6 +6,7 @@ My name is Dina and I'm a software engineer.
 I’m always eager to learn, collaborate, and grow-and I’m excited to connect with others in the tech community!
 
 🌍  I'm based in Baltimore, Maryland
+
 ✉️  You can contact me at [dinaabrahim3@gmail.com](mailto:dinaabrahim3@gmail.com)
    ### Skills
 
