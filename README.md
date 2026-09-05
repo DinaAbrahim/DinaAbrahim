@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-Software Engineer
----------------
-
 Hi! My name is Dina and I'm a software engineer. 
 
 I’m always eager to learn, collaborate, and grow-and I’m excited to connect with others in the tech community!
